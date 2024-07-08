@@ -1,0 +1,47 @@
+---
+title: "Juan F. Tellez"
+subtitle: "Assistant Professor <br> Department of Political Science <br> University of California, Davis"
+image: profile.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope 
+      href: mailto:jftellez@ucdavis.edu
+    - icon: CV
+      text: CV
+      href: https://www.dropbox.com/s/fmx1cgqubxj8wzv/tellez_cv.pdf?dl=0
+---
+
+
+### Bio
+
+I’m an assistant professor of political science at [The University of California, Davis](https://ps.ucdavis.edu/) where I research and teach on security, development, and research methods. In my research I often work with governments, international donors, and their implementing partners to improve the design and evaluation of development programming around the world. 
+
+I was born in Cali, Colombia, grew up in Cali/South Florida, and have lived in Texas, North Carolina, South Carolina, and now California. 
+
+
+
+### Education
+
+<div class="topbr">
+<p class="custom-subtitle"> {{< fa graduation-cap >}} **PhD in Political Science, 2019** | Duke University</p>  
+
+<p class="custom-subtitle">{{< fa graduation-cap >}} **MA in Political Science, 2016** | Duke University</p>  
+
+
+<p class="custom-subtitle"> {{< fa graduation-cap >}} **BA in Political Science, 2013** | University of Florida </p>  
+</div>
+
+
+
+### Research interests
+
+Armed conflict | Development | Security
+
+
+
+
+
+
